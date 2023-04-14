@@ -1,0 +1,21 @@
+{
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianlefeuvre/test-cypress.git"
+  },
+  "author": "Florian Lefeuvre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florianlefeuvre/test-cypress/issues"
+  },
+  "homepage": "https://github.com/florianlefeuvre/test-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
